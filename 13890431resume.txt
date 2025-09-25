@@ -1,0 +1,49 @@
+﻿Lachlan Sinclair
+lachsinclair@gmail.com | 0410707440|linkedin.com/in/lachlan-j-sinclair/
+About me
+A proactive and hardworking software engineering student and passionate full-stack developer, interested in designing usable systems that promote positive human experiences.
+
+
+Experience
+Software Consultant, Dryflow Magnetics-Sydney NSW        August 2025 – Ongoing
+* Contributed to the full stack development of an internal platform for upload and management of sensitive company data and prototype performative metrics. Streamlined analytical feedback for research, prototype development and investor showcase.
+* Maintained and expanded the developed Python backend API, ensuring data integrity within the MongoDB Atlas cluster through regular testing, debugging, and schema validation.
+* Improved the applications ability to handle large data uploads as well as review complex edge cases to enhance system stability and reliability. Resolved errors and bugs that were present in the minimum viable product previously developed.
+
+
+Software Project Lead, Optik Consultancy-Sydney NSW        May 2025 – August 2025
+* Led a six person team in a twelve week multi-disciplinary software and data engineering project. Planned and conducted the project according to agile development principles and utilised engineering project management tools.
+* Designed and implemented a full stack platform utilising FastAPI, React and MongoDB, to handle client’s evolving data processing and storage requirements. Developing a functional application adopted for usage by the company.
+* Enabling analytics and comparison data access that previously would take upwards of 30 minutes of manual work per dataset to be completed efficiently and automatically. Provided further useful advanced visualization tools for data.
+* Implemented Machine Learning functionalities to provide predictive capabilities to client workflows and demonstrate realistic outcomes for investors as well as guide future mechanical developments.
+
+
+Waiter, Bivianos Italian and Seafood- Sydney, NSW        2022 – 2025
+* Organised and hosted for functions of up to 200 people. Planned for customer preferences and requirements such as allergies.
+
+
+Programming Tutor and Course Content Developer, Code Create- Sydney, NSW        2020– 2022
+* Created a structured learning plan for a class of twenty students to teach fundamental programming principles in python and javascript using minecraft education mode. Students left with a strong foundational understanding of object orientated programming and improved critical thinking skills.
+* Maintained a full attendance rate in an extra-curricular program through using learning frameworks to encourage quality learning and growth in an engaging but also entertaining space.
+
+
+Projects
+Power-Mate        ElectronJS, NodeJS, SQLite & Generative AI Coding Tools 
+* A desktop app utilising LLM AI tools to analyse and review consumer electrical bills and promote financial and energy literacy. Developed for a Cognizant AI workshop competition. Received positive feedback and praise for its sleek design and use of AI tools to quickly develop a meaningful solution.
+
+
+ChromaUX        React, NodeJS, MongoDB, ExpressJS
+* A tool for assessing and improving user interface design, intended for usage by software developers. Analyses pages for accessibility conflicts including text size complications, contrast requirements and font legibility. Leverages colour analysis algorithms to assess current colour cohesiveness found in the design and suggests full custom pallets.
+
+
+Education
+University of Technology Sydney– Bachelor of Engineering (Software)        Graduating November 2025
+  WAM: 71.3 | Deans List for Academic Achievement 2025
+Cherrybrook Technology Highschool– High school Certificate        
+
+
+Skills
+Software Development: Agile development processes, debugging, systems testing, cloud server management.
+Programming Languages: Javascript, C++, Java, Python | Web Development: HTML, CSS, React, Node, ExpressJS, FastAPI
+Databasing: SQLite, MySQL, MongoDB, Prisma | Data: Python, R,  Matlab
+Professional: Team leadership, Scrum methodologies, Project Planning and Management, Technical Documentation, Stakeholder Engagement.
